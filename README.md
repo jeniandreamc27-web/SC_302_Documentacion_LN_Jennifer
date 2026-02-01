@@ -1,2 +1,8 @@
-# SC_302_Documentacion_LN_Jennifer
+# SC\_302\_Documentacion\_LN\_Jennifer
+
 Esta es mi primera práctica con GitHub.
+
+Estoy	trabajando	en	una	rama	nueva.
+
+
+
